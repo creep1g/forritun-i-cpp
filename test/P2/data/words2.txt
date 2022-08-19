@@ -1,0 +1,9 @@
+magneta
+car
+bird
+horse
+cow
+keyboard
+lamp
+poop
+
